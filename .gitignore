@@ -2,3 +2,6 @@ node_modules/
 build/
 pack/
 localtest/
+output_files/
+incremental_db/
+db/

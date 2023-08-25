@@ -1,0 +1,269 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "dataout",
+					"strict" : false
+				},
+				{
+					"name" : "tout[47]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[46]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[45]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[44]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[43]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[42]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[41]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[40]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[39]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[38]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[37]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[36]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[35]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[34]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[33]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[32]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[31]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[30]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[29]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[28]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[27]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[26]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[25]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[24]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[23]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[22]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[21]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[20]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[19]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[18]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[17]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[16]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[15]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[14]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[13]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[12]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[11]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[10]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[9]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[8]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[7]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[6]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[5]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[4]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[3]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[2]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[1]",
+					"strict" : false
+				},
+				{
+					"name" : "tout[0]",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				},
+				{
+					"name" : "zero11",
+					"strict" : false
+				},
+				{
+					"name" : "mainclock",
+					"strict" : false
+				},
+				{
+					"name" : "zero10",
+					"strict" : false
+				},
+				{
+					"name" : "zero9",
+					"strict" : false
+				},
+				{
+					"name" : "zero8",
+					"strict" : false
+				},
+				{
+					"name" : "zero7",
+					"strict" : false
+				},
+				{
+					"name" : "zero6",
+					"strict" : false
+				},
+				{
+					"name" : "zero5",
+					"strict" : false
+				},
+				{
+					"name" : "zero4",
+					"strict" : false
+				},
+				{
+					"name" : "zero3",
+					"strict" : false
+				},
+				{
+					"name" : "zero2",
+					"strict" : false
+				},
+				{
+					"name" : "zero1",
+					"strict" : false
+				},
+				{
+					"name" : "zero",
+					"strict" : false
+				},
+				{
+					"name" : "latch",
+					"strict" : false
+				},
+				{
+					"name" : "datain",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
